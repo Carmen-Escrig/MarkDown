@@ -1,5 +1,5 @@
-#Markdown
-##By Carmen
+# Markdown
+## By Carmen
 
 El markdown es un **lenguaje de marcado ligero**. Se utiliza en el *ReadMe* de `GitHub `.
 `Para usar Markdown:`
@@ -18,7 +18,7 @@ Tips:
 
 Tabla:
 
-| Syntax | Description |
+| Tabla | Markdow |
 | ----------- | ----------- |
 | Header | Tabla |
 | Paragraph | Tabla en markdows |
